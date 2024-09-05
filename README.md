@@ -1,4 +1,4 @@
-#University Website
+University Website
 
 A responsive university website built using HTML, CSS, and JavaScript. This project includes multiple sections and pages, providing an informative and user-friendly platform for prospective students, faculty, and staff. The website showcases various aspects of the university, including courses, facilities, and an option to apply online.
 
